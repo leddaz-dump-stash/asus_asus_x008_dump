@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <job_id />
+  <string-array name="sticky_system_packages">
+    <item>com.asus.quickmemoservice</item>
+    <item>com.asus.packageinstaller</item>
+    <item>com.asus.UpdateLauncher</item>
+    <item>com.asus.asusincallui</item>
+    <item>com.asus.boostdozemodeservice</item>
+    <item>com.asus.setupwizard</item>
+    <item>com.asus.hardwarestub</item>
+    <item>com.asus.cnsetupwizard</item>
+    <item>com.android.systemui</item>
+    <item>com.android.settings</item>
+    <item>com.asus.smartcalendar</item>
+    <item>com.wind.windpowersaver</item>
+    <item>com.android.fmradio</item>
+    <item>com.android.stk</item>
+  </string-array>
+  <string-array name="protected_system_packages">
+    <item>com.android.bookmarkprovider</item>
+    <item>com.android.calllogbackup</item>
+    <item>com.android.mms.service</item>
+    <item>com.android.phone</item>
+    <item>com.android.providers.calendar</item>
+    <item>com.android.providers.contacts</item>
+    <item>com.android.providers.downloads</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.providers.partnerbookmarks</item>
+    <item>com.android.providers.telephony</item>
+    <item>com.android.providers.tv</item>
+    <item>com.android.providers.userdictionary</item>
+    <item>com.android.server.telecom</item>
+    <item>com.asus.soundrecorder</item>
+    <item>com.asus.calculator</item>
+    <item>com.asus.deskclock</item>
+    <item>com.asus.playto</item>
+    <item>com.asus.DLNA</item>
+    <item>com.asus.collage</item>
+    <item>com.asus.filemanager</item>
+    <item>com.asus.server.azs</item>
+    <item>com.asus.gallery</item>
+    <item>com.asus.mobilemanager</item>
+    <item>com.asus.music</item>
+    <item>com.asus.ephotoburst</item>
+    <item>com.asus.quickmemo</item>
+    <item>com.asus.gamewidget</item>
+    <item>com.asus.ime</item>
+    <item>com.asus.backuprestore</item>
+    <item>com.asus.camera</item>
+    <item>com.asus.easylauncher</item>
+    <item>com.asus.flashlight</item>
+    <item>com.asus.browser</item>
+    <item>com.asus.microfilm</item>
+    <item>com.asus.sensorapi.service</item>
+    <item>com.asus.cnmessage</item>
+    <item>com.asus.cncontacts</item>
+    <item>com.google.android.webview</item>
+    <item>com.google.android.gsf.login</item>
+    <item>google</item>
+  </string-array>
+</resources>

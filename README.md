@@ -1,0 +1,14 @@
+# full_E280L-user 6.0 MRA58K 1494945305 release-keys
+- manufacturer: asus
+- platform: mt6737t
+- codename: ASUS_X008
+- flavor: full_E280L-user
+- release: 6.0
+- id: MRA58K
+- incremental: CMCC_Phone-13.0.0.25-20170516
+- tags: release-keys
+- fingerprint: asus/CMCC_Phone/ASUS_X008:6.0/MRA58K/CMCC_Phone-13.0.0.25-20170516:user/release-keys
+- is_ab: false
+- brand: asus
+- branch: full_E280L-user-6.0-MRA58K-1494945305-release-keys
+- repo: asus_asus_x008_dump
