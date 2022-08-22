@@ -1,0 +1,14 @@
+# full_E281L-user 6.0 MRA58K 1493453512 release-keys
+- manufacturer: asus
+- platform: mt6737t
+- codename: ASUS_X008
+- flavor: full_E281L-user
+- release: 6.0
+- id: MRA58K
+- incremental: TW_Phone-13.0.3.66-20170428
+- tags: release-keys
+- fingerprint: asus/TW_Phone/ASUS_X008:6.0/MRA58K/TW_Phone-13.0.3.66-20170428:user/release-keys
+- is_ab: false
+- brand: asus
+- branch: full_E281L-user-6.0-MRA58K-1493453512-release-keys
+- repo: asus_asus_x008_dump
